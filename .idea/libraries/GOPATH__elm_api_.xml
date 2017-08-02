@@ -1,0 +1,25 @@
+<component name="libraryTable">
+  <library name="GOPATH &lt;elm-api&gt;">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../log" />
+      <root url="file://$PROJECT_DIR$/../unicontract" />
+      <root url="file://$PROJECT_DIR$/../go-utils" />
+      <root url="file://$PROJECT_DIR$/../github.com" />
+      <root url="file://$PROJECT_DIR$/../unicontract-deploy" />
+      <root url="file://$PROJECT_DIR$/../.idea" />
+      <root url="file://$PROJECT_DIR$/../iris_old" />
+    </CLASSES>
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../log" />
+      <root url="file://$PROJECT_DIR$/../unicontract" />
+      <root url="file://$PROJECT_DIR$/../go-utils" />
+      <root url="file://$PROJECT_DIR$/../github.com" />
+      <root url="file://$PROJECT_DIR$/../unicontract-deploy" />
+      <root url="file://$PROJECT_DIR$/../.idea" />
+      <root url="file://$PROJECT_DIR$/../iris_old" />
+    </SOURCES>
+    <excluded>
+      <root url="file://$PROJECT_DIR$" />
+    </excluded>
+  </library>
+</component>
